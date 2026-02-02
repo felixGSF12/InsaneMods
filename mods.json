@@ -3,6 +3,7 @@
         "link": "https://github.com/felixGSF12/InsaneMods/releases/download/ShaderLex/shaderLex.zip",
         "min_version": "0.5.0 (retake)",
         "descripcion": "Esto añade una libreria de shader de uso para cualquier script lua",
+        "logo": "https://raw.githubusercontent.com/felixGSF12/InsaneMods/refs/heads/main/logos/portrait.png"
         "recommended": "",
         "modpack": "ShaderLex",
         "author": "insaneTeam",
