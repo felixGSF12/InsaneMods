@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="skeleton.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Skeleton Idle0000" x="5" y="5" width="322" height="458" frameX="0" frameY="-11" frameWidth="322" frameHeight="470"/>
+	<SubTexture name="Skeleton Idle0001" x="5" y="5" width="322" height="458" frameX="0" frameY="-11" frameWidth="322" frameHeight="470"/>
+	<SubTexture name="Skeleton Idle0002" x="342" y="5" width="318" height="462" frameX="-3" frameY="-8" frameWidth="322" frameHeight="470"/>
+	<SubTexture name="Skeleton Idle0003" x="342" y="5" width="318" height="462" frameX="-3" frameY="-8" frameWidth="322" frameHeight="470"/>
+	<SubTexture name="Skeleton Idle0004" x="675" y="5" width="316" height="468" frameX="-5" frameY="-2" frameWidth="322" frameHeight="470"/>
+	<SubTexture name="Skeleton Idle0005" x="675" y="5" width="316" height="468" frameX="-5" frameY="-2" frameWidth="322" frameHeight="470"/>
+	<SubTexture name="Skeleton Idle0006" x="1006" y="5" width="314" height="470" frameX="-5" frameY="0" frameWidth="322" frameHeight="470"/>
+	<SubTexture name="Skeleton Idle0007" x="1006" y="5" width="314" height="470" frameX="-5" frameY="0" frameWidth="322" frameHeight="470"/>
+	<SubTexture name="Skeleton Idle0008" x="1335" y="5" width="313" height="470" frameX="-5" frameY="0" frameWidth="322" frameHeight="470"/>
+	<SubTexture name="Skeleton Idle0009" x="1335" y="5" width="313" height="470" frameX="-5" frameY="0" frameWidth="322" frameHeight="470"/>
+	<SubTexture name="Skeleton Idle0010" x="1663" y="5" width="313" height="470" frameX="-5" frameY="0" frameWidth="322" frameHeight="470"/>
+	<SubTexture name="Skeleton Idle0011" x="1663" y="5" width="313" height="470" frameX="-5" frameY="0" frameWidth="322" frameHeight="470"/>
+	<SubTexture name="Skeleton Idle0012" x="1663" y="5" width="313" height="470" frameX="-5" frameY="0" frameWidth="322" frameHeight="470"/>
+	<SubTexture name="Skeleton Idle0013" x="1663" y="5" width="313" height="470" frameX="-5" frameY="0" frameWidth="322" frameHeight="470"/>
+	<SubTexture name="Skeleton NOTE DOWN0000" x="1991" y="5" width="236" height="215" frameX="0" frameY="-8" frameWidth="236" frameHeight="223"/>
+	<SubTexture name="Skeleton NOTE DOWN0001" x="1991" y="5" width="236" height="215" frameX="0" frameY="-8" frameWidth="236" frameHeight="223"/>
+	<SubTexture name="Skeleton NOTE DOWN0002" x="2242" y="5" width="228" height="223" frameX="-4" frameY="0" frameWidth="236" frameHeight="223"/>
+	<SubTexture name="Skeleton NOTE DOWN0003" x="2242" y="5" width="228" height="223" frameX="-4" frameY="0" frameWidth="236" frameHeight="223"/>
+	<SubTexture name="Skeleton NOTE DOWN0004" x="2242" y="5" width="228" height="223" frameX="-4" frameY="0" frameWidth="236" frameHeight="223"/>
+	<SubTexture name="Skeleton NOTE DOWN0005" x="2242" y="5" width="228" height="223" frameX="-4" frameY="0" frameWidth="236" frameHeight="223"/>
+	<SubTexture name="Skeleton NOTE DOWN0006" x="2242" y="5" width="228" height="223" frameX="-4" frameY="0" frameWidth="236" frameHeight="223"/>
+	<SubTexture name="Skeleton NOTE DOWN0007" x="2242" y="5" width="228" height="223" frameX="-4" frameY="0" frameWidth="236" frameHeight="223"/>
+	<SubTexture name="Skeleton NOTE DOWN0008" x="2242" y="5" width="228" height="223" frameX="-4" frameY="0" frameWidth="236" frameHeight="223"/>
+	<SubTexture name="Skeleton NOTE DOWN0009" x="2242" y="5" width="228" height="223" frameX="-4" frameY="0" frameWidth="236" frameHeight="223"/>
+	<SubTexture name="Skeleton NOTE DOWN0010" x="2242" y="5" width="228" height="223" frameX="-4" frameY="0" frameWidth="236" frameHeight="223"/>
+	<SubTexture name="Skeleton NOTE DOWN0011" x="2242" y="5" width="228" height="223" frameX="-4" frameY="0" frameWidth="236" frameHeight="223"/>
+	<SubTexture name="Skeleton NOTE DOWN0012" x="2242" y="5" width="228" height="223" frameX="-4" frameY="0" frameWidth="236" frameHeight="223"/>
+	<SubTexture name="Skeleton NOTE DOWN0013" x="2242" y="5" width="228" height="223" frameX="-4" frameY="0" frameWidth="236" frameHeight="223"/>
+	<SubTexture name="Skeleton NOTE LEFT0000" x="2485" y="5" width="435" height="473" frameX="0" frameY="-5" frameWidth="442" frameHeight="478"/>
+	<SubTexture name="Skeleton NOTE LEFT0001" x="2485" y="5" width="435" height="473" frameX="0" frameY="-5" frameWidth="442" frameHeight="478"/>
+	<SubTexture name="Skeleton NOTE LEFT0002" x="2935" y="5" width="433" height="478" frameX="-9" frameY="0" frameWidth="442" frameHeight="478"/>
+	<SubTexture name="Skeleton NOTE LEFT0003" x="2935" y="5" width="433" height="478" frameX="-9" frameY="0" frameWidth="442" frameHeight="478"/>
+	<SubTexture name="Skeleton NOTE LEFT0004" x="2935" y="5" width="433" height="478" frameX="-9" frameY="0" frameWidth="442" frameHeight="478"/>
+	<SubTexture name="Skeleton NOTE LEFT0005" x="2935" y="5" width="433" height="478" frameX="-9" frameY="0" frameWidth="442" frameHeight="478"/>
+	<SubTexture name="Skeleton NOTE LEFT0006" x="2935" y="5" width="433" height="478" frameX="-9" frameY="0" frameWidth="442" frameHeight="478"/>
+	<SubTexture name="Skeleton NOTE LEFT0007" x="2935" y="5" width="433" height="478" frameX="-9" frameY="0" frameWidth="442" frameHeight="478"/>
+	<SubTexture name="Skeleton NOTE LEFT0008" x="2935" y="5" width="433" height="478" frameX="-9" frameY="0" frameWidth="442" frameHeight="478"/>
+	<SubTexture name="Skeleton NOTE LEFT0009" x="2935" y="5" width="433" height="478" frameX="-9" frameY="0" frameWidth="442" frameHeight="478"/>
+	<SubTexture name="Skeleton NOTE LEFT0010" x="2935" y="5" width="433" height="478" frameX="-9" frameY="0" frameWidth="442" frameHeight="478"/>
+	<SubTexture name="Skeleton NOTE LEFT0011" x="2935" y="5" width="433" height="478" frameX="-9" frameY="0" frameWidth="442" frameHeight="478"/>
+	<SubTexture name="Skeleton NOTE LEFT0012" x="2935" y="5" width="433" height="478" frameX="-9" frameY="0" frameWidth="442" frameHeight="478"/>
+	<SubTexture name="Skeleton NOTE LEFT0013" x="2935" y="5" width="433" height="478" frameX="-9" frameY="0" frameWidth="442" frameHeight="478"/>
+	<SubTexture name="Skeleton NOTE Right0000" x="3383" y="5" width="356" height="471"/>
+	<SubTexture name="Skeleton NOTE Right0001" x="3383" y="5" width="356" height="471"/>
+	<SubTexture name="Skeleton NOTE Right0002" x="5" y="498" width="347" height="470" frameX="0" frameY="-1" frameWidth="356" frameHeight="471"/>
+	<SubTexture name="Skeleton NOTE Right0003" x="5" y="498" width="347" height="470" frameX="0" frameY="-1" frameWidth="356" frameHeight="471"/>
+	<SubTexture name="Skeleton NOTE Right0004" x="5" y="498" width="347" height="470" frameX="0" frameY="-1" frameWidth="356" frameHeight="471"/>
+	<SubTexture name="Skeleton NOTE Right0005" x="5" y="498" width="347" height="470" frameX="0" frameY="-1" frameWidth="356" frameHeight="471"/>
+	<SubTexture name="Skeleton NOTE Right0006" x="5" y="498" width="347" height="470" frameX="0" frameY="-1" frameWidth="356" frameHeight="471"/>
+	<SubTexture name="Skeleton NOTE Right0007" x="5" y="498" width="347" height="470" frameX="0" frameY="-1" frameWidth="356" frameHeight="471"/>
+	<SubTexture name="Skeleton NOTE Right0008" x="5" y="498" width="347" height="470" frameX="0" frameY="-1" frameWidth="356" frameHeight="471"/>
+	<SubTexture name="Skeleton NOTE Right0009" x="5" y="498" width="347" height="470" frameX="0" frameY="-1" frameWidth="356" frameHeight="471"/>
+	<SubTexture name="Skeleton NOTE Right0010" x="5" y="498" width="347" height="470" frameX="0" frameY="-1" frameWidth="356" frameHeight="471"/>
+	<SubTexture name="Skeleton NOTE Right0011" x="5" y="498" width="347" height="470" frameX="0" frameY="-1" frameWidth="356" frameHeight="471"/>
+	<SubTexture name="Skeleton NOTE Right0012" x="5" y="498" width="347" height="470" frameX="0" frameY="-1" frameWidth="356" frameHeight="471"/>
+	<SubTexture name="Skeleton NOTE Right0013" x="5" y="498" width="347" height="470" frameX="0" frameY="-1" frameWidth="356" frameHeight="471"/>
+	<SubTexture name="Skeleton NOTE UP0000" x="367" y="498" width="397" height="540" frameX="0" frameY="0" frameWidth="400" frameHeight="540"/>
+	<SubTexture name="Skeleton NOTE UP0001" x="367" y="498" width="397" height="540" frameX="0" frameY="0" frameWidth="400" frameHeight="540"/>
+	<SubTexture name="Skeleton NOTE UP0002" x="779" y="498" width="391" height="533" frameX="-9" frameY="-7" frameWidth="400" frameHeight="540"/>
+	<SubTexture name="Skeleton NOTE UP0003" x="779" y="498" width="391" height="533" frameX="-9" frameY="-7" frameWidth="400" frameHeight="540"/>
+	<SubTexture name="Skeleton NOTE UP0004" x="779" y="498" width="391" height="533" frameX="-9" frameY="-7" frameWidth="400" frameHeight="540"/>
+	<SubTexture name="Skeleton NOTE UP0005" x="779" y="498" width="391" height="533" frameX="-9" frameY="-7" frameWidth="400" frameHeight="540"/>
+	<SubTexture name="Skeleton NOTE UP0006" x="779" y="498" width="391" height="533" frameX="-9" frameY="-7" frameWidth="400" frameHeight="540"/>
+	<SubTexture name="Skeleton NOTE UP0007" x="779" y="498" width="391" height="533" frameX="-9" frameY="-7" frameWidth="400" frameHeight="540"/>
+	<SubTexture name="Skeleton NOTE UP0008" x="779" y="498" width="391" height="533" frameX="-9" frameY="-7" frameWidth="400" frameHeight="540"/>
+	<SubTexture name="Skeleton NOTE UP0009" x="779" y="498" width="391" height="533" frameX="-9" frameY="-7" frameWidth="400" frameHeight="540"/>
+	<SubTexture name="Skeleton NOTE UP0010" x="779" y="498" width="391" height="533" frameX="-9" frameY="-7" frameWidth="400" frameHeight="540"/>
+	<SubTexture name="Skeleton NOTE UP0011" x="779" y="498" width="391" height="533" frameX="-9" frameY="-7" frameWidth="400" frameHeight="540"/>
+	<SubTexture name="Skeleton NOTE UP0012" x="779" y="498" width="391" height="533" frameX="-9" frameY="-7" frameWidth="400" frameHeight="540"/>
+	<SubTexture name="Skeleton NOTE UP0013" x="779" y="498" width="391" height="533" frameX="-9" frameY="-7" frameWidth="400" frameHeight="540"/>
+	<SubTexture name="SkeletonE Idle0000" x="1185" y="498" width="322" height="458" frameX="0" frameY="-11" frameWidth="322" frameHeight="470"/>
+	<SubTexture name="SkeletonE Idle0001" x="1185" y="498" width="322" height="458" frameX="0" frameY="-11" frameWidth="322" frameHeight="470"/>
+	<SubTexture name="SkeletonE Idle0002" x="1522" y="498" width="318" height="462" frameX="-3" frameY="-8" frameWidth="322" frameHeight="470"/>
+	<SubTexture name="SkeletonE Idle0003" x="1522" y="498" width="318" height="462" frameX="-3" frameY="-8" frameWidth="322" frameHeight="470"/>
+	<SubTexture name="SkeletonE Idle0004" x="1855" y="498" width="316" height="468" frameX="-5" frameY="-2" frameWidth="322" frameHeight="470"/>
+	<SubTexture name="SkeletonE Idle0005" x="1855" y="498" width="316" height="468" frameX="-5" frameY="-2" frameWidth="322" frameHeight="470"/>
+	<SubTexture name="SkeletonE Idle0006" x="2186" y="498" width="314" height="470" frameX="-5" frameY="0" frameWidth="322" frameHeight="470"/>
+	<SubTexture name="SkeletonE Idle0007" x="2186" y="498" width="314" height="470" frameX="-5" frameY="0" frameWidth="322" frameHeight="470"/>
+	<SubTexture name="SkeletonE Idle0008" x="2515" y="498" width="313" height="470" frameX="-5" frameY="0" frameWidth="322" frameHeight="470"/>
+	<SubTexture name="SkeletonE Idle0009" x="2515" y="498" width="313" height="470" frameX="-5" frameY="0" frameWidth="322" frameHeight="470"/>
+	<SubTexture name="SkeletonE Idle0010" x="2843" y="498" width="313" height="470" frameX="-5" frameY="0" frameWidth="322" frameHeight="470"/>
+	<SubTexture name="SkeletonE Idle0011" x="2843" y="498" width="313" height="470" frameX="-5" frameY="0" frameWidth="322" frameHeight="470"/>
+	<SubTexture name="SkeletonE Idle0012" x="2843" y="498" width="313" height="470" frameX="-5" frameY="0" frameWidth="322" frameHeight="470"/>
+	<SubTexture name="SkeletonE Idle0013" x="2843" y="498" width="313" height="470" frameX="-5" frameY="0" frameWidth="322" frameHeight="470"/>
+	<SubTexture name="SkeletonE NOTE DOWN0000" x="1991" y="5" width="236" height="215" frameX="0" frameY="-8" frameWidth="236" frameHeight="223"/>
+	<SubTexture name="SkeletonE NOTE DOWN0001" x="1991" y="5" width="236" height="215" frameX="0" frameY="-8" frameWidth="236" frameHeight="223"/>
+	<SubTexture name="SkeletonE NOTE DOWN0002" x="2242" y="5" width="228" height="223" frameX="-4" frameY="0" frameWidth="236" frameHeight="223"/>
+	<SubTexture name="SkeletonE NOTE DOWN0003" x="2242" y="5" width="228" height="223" frameX="-4" frameY="0" frameWidth="236" frameHeight="223"/>
+	<SubTexture name="SkeletonE NOTE DOWN0004" x="2242" y="5" width="228" height="223" frameX="-4" frameY="0" frameWidth="236" frameHeight="223"/>
+	<SubTexture name="SkeletonE NOTE DOWN0005" x="2242" y="5" width="228" height="223" frameX="-4" frameY="0" frameWidth="236" frameHeight="223"/>
+	<SubTexture name="SkeletonE NOTE DOWN0006" x="2242" y="5" width="228" height="223" frameX="-4" frameY="0" frameWidth="236" frameHeight="223"/>
+	<SubTexture name="SkeletonE NOTE DOWN0007" x="2242" y="5" width="228" height="223" frameX="-4" frameY="0" frameWidth="236" frameHeight="223"/>
+	<SubTexture name="SkeletonE NOTE DOWN0008" x="2242" y="5" width="228" height="223" frameX="-4" frameY="0" frameWidth="236" frameHeight="223"/>
+	<SubTexture name="SkeletonE NOTE DOWN0009" x="2242" y="5" width="228" height="223" frameX="-4" frameY="0" frameWidth="236" frameHeight="223"/>
+	<SubTexture name="SkeletonE NOTE DOWN0010" x="2242" y="5" width="228" height="223" frameX="-4" frameY="0" frameWidth="236" frameHeight="223"/>
+	<SubTexture name="SkeletonE NOTE DOWN0011" x="2242" y="5" width="228" height="223" frameX="-4" frameY="0" frameWidth="236" frameHeight="223"/>
+	<SubTexture name="SkeletonE NOTE DOWN0012" x="2242" y="5" width="228" height="223" frameX="-4" frameY="0" frameWidth="236" frameHeight="223"/>
+	<SubTexture name="SkeletonE NOTE DOWN0013" x="2242" y="5" width="228" height="223" frameX="-4" frameY="0" frameWidth="236" frameHeight="223"/>
+	<SubTexture name="SkeletonE NOTE LEFT0000" x="3171" y="498" width="435" height="473" frameX="0" frameY="-5" frameWidth="442" frameHeight="478"/>
+	<SubTexture name="SkeletonE NOTE LEFT0001" x="3171" y="498" width="435" height="473" frameX="0" frameY="-5" frameWidth="442" frameHeight="478"/>
+	<SubTexture name="SkeletonE NOTE LEFT0002" x="3621" y="498" width="433" height="478" frameX="-9" frameY="0" frameWidth="442" frameHeight="478"/>
+	<SubTexture name="SkeletonE NOTE LEFT0003" x="3621" y="498" width="433" height="478" frameX="-9" frameY="0" frameWidth="442" frameHeight="478"/>
+	<SubTexture name="SkeletonE NOTE LEFT0004" x="3621" y="498" width="433" height="478" frameX="-9" frameY="0" frameWidth="442" frameHeight="478"/>
+	<SubTexture name="SkeletonE NOTE LEFT0005" x="3621" y="498" width="433" height="478" frameX="-9" frameY="0" frameWidth="442" frameHeight="478"/>
+	<SubTexture name="SkeletonE NOTE LEFT0006" x="3621" y="498" width="433" height="478" frameX="-9" frameY="0" frameWidth="442" frameHeight="478"/>
+	<SubTexture name="SkeletonE NOTE LEFT0007" x="3621" y="498" width="433" height="478" frameX="-9" frameY="0" frameWidth="442" frameHeight="478"/>
+	<SubTexture name="SkeletonE NOTE LEFT0008" x="3621" y="498" width="433" height="478" frameX="-9" frameY="0" frameWidth="442" frameHeight="478"/>
+	<SubTexture name="SkeletonE NOTE LEFT0009" x="3621" y="498" width="433" height="478" frameX="-9" frameY="0" frameWidth="442" frameHeight="478"/>
+	<SubTexture name="SkeletonE NOTE LEFT0010" x="3621" y="498" width="433" height="478" frameX="-9" frameY="0" frameWidth="442" frameHeight="478"/>
+	<SubTexture name="SkeletonE NOTE LEFT0011" x="3621" y="498" width="433" height="478" frameX="-9" frameY="0" frameWidth="442" frameHeight="478"/>
+	<SubTexture name="SkeletonE NOTE LEFT0012" x="3621" y="498" width="433" height="478" frameX="-9" frameY="0" frameWidth="442" frameHeight="478"/>
+	<SubTexture name="SkeletonE NOTE LEFT0013" x="3621" y="498" width="433" height="478" frameX="-9" frameY="0" frameWidth="442" frameHeight="478"/>
+	<SubTexture name="SkeletonE NOTE Right0000" x="5" y="1053" width="356" height="471"/>
+	<SubTexture name="SkeletonE NOTE Right0001" x="5" y="1053" width="356" height="471"/>
+	<SubTexture name="SkeletonE NOTE Right0002" x="376" y="1053" width="347" height="470" frameX="0" frameY="-1" frameWidth="356" frameHeight="471"/>
+	<SubTexture name="SkeletonE NOTE Right0003" x="376" y="1053" width="347" height="470" frameX="0" frameY="-1" frameWidth="356" frameHeight="471"/>
+	<SubTexture name="SkeletonE NOTE Right0004" x="376" y="1053" width="347" height="470" frameX="0" frameY="-1" frameWidth="356" frameHeight="471"/>
+	<SubTexture name="SkeletonE NOTE Right0005" x="376" y="1053" width="347" height="470" frameX="0" frameY="-1" frameWidth="356" frameHeight="471"/>
+	<SubTexture name="SkeletonE NOTE Right0006" x="376" y="1053" width="347" height="470" frameX="0" frameY="-1" frameWidth="356" frameHeight="471"/>
+	<SubTexture name="SkeletonE NOTE Right0007" x="376" y="1053" width="347" height="470" frameX="0" frameY="-1" frameWidth="356" frameHeight="471"/>
+	<SubTexture name="SkeletonE NOTE Right0008" x="376" y="1053" width="347" height="470" frameX="0" frameY="-1" frameWidth="356" frameHeight="471"/>
+	<SubTexture name="SkeletonE NOTE Right0009" x="376" y="1053" width="347" height="470" frameX="0" frameY="-1" frameWidth="356" frameHeight="471"/>
+	<SubTexture name="SkeletonE NOTE Right0010" x="376" y="1053" width="347" height="470" frameX="0" frameY="-1" frameWidth="356" frameHeight="471"/>
+	<SubTexture name="SkeletonE NOTE Right0011" x="376" y="1053" width="347" height="470" frameX="0" frameY="-1" frameWidth="356" frameHeight="471"/>
+	<SubTexture name="SkeletonE NOTE Right0012" x="376" y="1053" width="347" height="470" frameX="0" frameY="-1" frameWidth="356" frameHeight="471"/>
+	<SubTexture name="SkeletonE NOTE Right0013" x="376" y="1053" width="347" height="470" frameX="0" frameY="-1" frameWidth="356" frameHeight="471"/>
+	<SubTexture name="SkeletonE NOTE UP0000" x="738" y="1053" width="397" height="540" frameX="0" frameY="0" frameWidth="400" frameHeight="540"/>
+	<SubTexture name="SkeletonE NOTE UP0001" x="738" y="1053" width="397" height="540" frameX="0" frameY="0" frameWidth="400" frameHeight="540"/>
+	<SubTexture name="SkeletonE NOTE UP0002" x="1150" y="1053" width="391" height="533" frameX="-9" frameY="-7" frameWidth="400" frameHeight="540"/>
+	<SubTexture name="SkeletonE NOTE UP0003" x="1150" y="1053" width="391" height="533" frameX="-9" frameY="-7" frameWidth="400" frameHeight="540"/>
+	<SubTexture name="SkeletonE NOTE UP0004" x="1150" y="1053" width="391" height="533" frameX="-9" frameY="-7" frameWidth="400" frameHeight="540"/>
+	<SubTexture name="SkeletonE NOTE UP0005" x="1150" y="1053" width="391" height="533" frameX="-9" frameY="-7" frameWidth="400" frameHeight="540"/>
+	<SubTexture name="SkeletonE NOTE UP0006" x="1150" y="1053" width="391" height="533" frameX="-9" frameY="-7" frameWidth="400" frameHeight="540"/>
+	<SubTexture name="SkeletonE NOTE UP0007" x="1150" y="1053" width="391" height="533" frameX="-9" frameY="-7" frameWidth="400" frameHeight="540"/>
+	<SubTexture name="SkeletonE NOTE UP0008" x="1150" y="1053" width="391" height="533" frameX="-9" frameY="-7" frameWidth="400" frameHeight="540"/>
+	<SubTexture name="SkeletonE NOTE UP0009" x="1150" y="1053" width="391" height="533" frameX="-9" frameY="-7" frameWidth="400" frameHeight="540"/>
+	<SubTexture name="SkeletonE NOTE UP0010" x="1150" y="1053" width="391" height="533" frameX="-9" frameY="-7" frameWidth="400" frameHeight="540"/>
+	<SubTexture name="SkeletonE NOTE UP0011" x="1150" y="1053" width="391" height="533" frameX="-9" frameY="-7" frameWidth="400" frameHeight="540"/>
+	<SubTexture name="SkeletonE NOTE UP0012" x="1150" y="1053" width="391" height="533" frameX="-9" frameY="-7" frameWidth="400" frameHeight="540"/>
+	<SubTexture name="SkeletonE NOTE UP0013" x="1150" y="1053" width="391" height="533" frameX="-9" frameY="-7" frameWidth="400" frameHeight="540"/>
+</TextureAtlas>
