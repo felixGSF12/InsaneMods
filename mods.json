@@ -20,6 +20,17 @@
         "author": "PorterinFNF",
         "fileName": "Atrocity.zip",
         "updated": ""
+    },
+      {
+        "link": "https://github.com/felixGSF12/InsaneMods/releases/download/FCL/FCL.zip",
+        "min_version": "cualquiera",
+        "descripcion": "Desbloquea cualquier personaje!",
+        "logo": "https://raw.githubusercontent.com/felixGSF12/InsaneMods/refs/heads/main/logos/portrait.png",
+        "recommended": "yes",
+        "modpack": "FCL",
+        "author": "MariOG",
+        "fileName": "FCL.zip",
+        "updated": ""
     }
 ]
 
