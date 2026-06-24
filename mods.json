@@ -1,26 +1,4 @@
 [
-    {
-        "link": "https://github.com/felixGSF12/InsaneMods/releases/download/ShaderLex/shaderLex.zip",
-        "min_version": "0.5.0 (retake)",
-        "descripcion": "Esto añade una libreria de shader de uso para cualquier script lua",
-        "logo": "https://raw.githubusercontent.com/felixGSF12/InsaneMods/refs/heads/main/logos/portrait.png",
-        "recommended": "",
-        "modpack": "ShaderLex",
-        "author": "ShaderLex-in",
-        "fileName": "ShaderLex.zip",
-        "updated": "ShaderLex"
-    },
-        {
-        "link": "https://github.com/felixGSF12/InsaneMods/releases/download/Atrocity/Atrocity.zip",
-        "min_version": "0.5.0 (retake)",
-        "descripcion": "Atrocity Song PORT INSANE ENGINE",
-        "logo": "https://raw.githubusercontent.com/felixGSF12/InsaneMods/refs/heads/main/logos/Atrocity.png",
-        "recommended": "",
-        "modpack": "Atrocity",
-        "author": "PorterinFNF",
-        "fileName": "Atrocity.zip",
-        "updated": ""
-    },
       {
         "link": "https://github.com/felixGSF12/InsaneMods/releases/download/FCL/FLC.zip",
         "min_version": "cualquiera",
