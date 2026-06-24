@@ -8,7 +8,18 @@
         "modpack": "FCL",
         "author": "MariOG",
         "fileName": "FCL.zip",
-        "updated": ""
+        "updated": "FULL CHARACTER COMPLETED"
+    },
+      {
+        "link": "https://github.com/felixGSF12/InsaneMods/releases/download/noDrain/NoDrain.zip",
+        "min_version": "17.06.26",
+        "descripcion": "Mod hecho para los que quieran modificar el porcentaje de vida que te drena el oponente!",
+        "logo": "https://raw.githubusercontent.com/felixGSF12/InsaneMods/refs/heads/main/logos/portrait.png",
+        "recommended": "para nuvs",
+        "modpack": "no_drain",
+        "author": "unknown",
+        "fileName": "NoDrain",
+        "updated": "DRAIN CONTROL!"
     }
 ]
 
